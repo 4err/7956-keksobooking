@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Байдаров](https://up.htmlacademy.ru/javascript/8/user/7956).
-* Наставник: `Неизвестно`.
+* Наставник: Сам себе наставник.
 
 ---
 
