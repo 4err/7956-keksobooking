@@ -18,3 +18,4 @@ _`bin`, `tests`, `.editorconfig`, `.eslintignore`, `.eslintrc`, `.gitignore`, `.
 [travis-url]: https://travis-ci.org/htmlacademy-javascript/7956-keksobooking
 [dependency-image]: https://david-dm.org/htmlacademy-javascript/7956-keksobooking.svg?style=flat-square
 [dependency-url]: https://david-dm.org/htmlacademy-javascript/7956-keksobooking
+fsadfasfd
